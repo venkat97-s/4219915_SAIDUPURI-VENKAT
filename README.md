@@ -4,5 +4,3 @@
 # 4219915_SAIDUPURI-VENKAT
 ![GIT Certificate](https://github.com/venkat97-s/4219915_SAIDUPURI-VENKAT/blob/main/GIT/git%20training%20certificate.jpg)
 
-
-
