@@ -8,4 +8,4 @@
 ![C Certificate](https://github.com/venkat97-s/4219915_SAIDUPURI-VENKAT/blob/main/C_learning_certificates/c%20certifiicate.jpg)
 
 # 4219915_SAIDUPURI-VENKAT
-![C intermediate certificate](https://github.com/venkat97-s/4219915_SAIDUPURI-VENKAT/blob/main/C_learning_certificates/c%20intermediate.jpg)
+![C intermediate certificate](https://github.com/venkat97-s/4219915_SAIDUPURI-VENKAT/blob/main/C_learning_certificates/updated%20c%20intermediate.jpg)
